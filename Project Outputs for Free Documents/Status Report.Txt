@@ -1,0 +1,25 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:05:29 On 20/11/2020
+
+Output: LM2576_DC_DC_Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [LM2576_DC-DC Converter.PcbDoc]
+   Generated File[LM2576_DC-DC Converter.GTO]
+   Generated File[LM2576_DC-DC Converter.GTP]
+   Generated File[LM2576_DC-DC Converter.GTS]
+   Generated File[LM2576_DC-DC Converter.GTL]
+   Generated File[LM2576_DC-DC Converter.GBL]
+   Generated File[LM2576_DC-DC Converter.GBS]
+   Generated File[LM2576_DC-DC Converter.GBO]
+   Generated File[LM2576_DC-DC Converter.GM2]
+   Generated File[LM2576_DC-DC Converter.GM3]
+   Generated File[LM2576_DC-DC Converter.RUL]
+   Generated File[LM2576_DC-DC Converter.EXTREP]
+   Generated File[LM2576_DC-DC Converter.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 13:05:32 On 20/11/2020

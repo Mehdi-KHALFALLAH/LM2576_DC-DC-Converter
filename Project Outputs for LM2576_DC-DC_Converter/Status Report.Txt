@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:22:02 On 20/11/2020
+
+Output: LM2576_DC_DC_Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [LM2576_DC-DC_Converter.PrjPcb]
+   Generated File[LM2576_DC_DC_Bill of Materials-LM2576_DC-DC_Converter.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:22:31 On 20/11/2020

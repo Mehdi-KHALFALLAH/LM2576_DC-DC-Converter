@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\USER\Desktop\altium designer projects\LM2576_DC-DC Converter\LM2576_DC-DC_Converter\LM2576_DC-DC Converter.PcbDoc
+RuleKind=Clearance|RuleName=polygons around|Scope=Board|Minimum=19.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
